@@ -8,7 +8,7 @@ Technical indicators and sentiment indices were considered together, and it can 
 ## Data Description
 사용된 데이터는 2017년 8월 1일부터 2022년 2월 28일 까지의 기간동안 수집된 데이터입니다.  
 LexisNexis에서 "Bitcoin", "Crypto", "Virtual Asset", "Ethereum", "BTC", "ETH" 및 "Blockchain" 쿼리를 사용하였으며, 총 26,441개의 뉴스가 수집되었습니다.  
-Reddit에서 r/Bitcoin, r/Ethereum 및 r/cryptocurrency subreddit에 포함된 게시글과 댓글은 Pushshift API를 사용하여 수집되었습니다.  
+Reddit에서 "r/Bitcoin", "r/Ethereum" 및 "r/cryptocurrency"의 subreddit에 포함된 게시글과 댓글은 Pushshift API를 사용하여 수집되었습니다.  
 총 359,943개의 제출물과 26,003,561개의 댓글이 수집되었습니다.  
   
 The datasets used for analysis is from April 8, 2015 to September 2, 2021.  
