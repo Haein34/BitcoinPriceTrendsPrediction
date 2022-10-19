@@ -2,7 +2,7 @@
 본 프로젝트는 Reddit데이터와 LexisNexis 데이터를 이용하여 비트코인 가격의 방향성을 예측하기 위해 시행되었습니다.  
 정확한 결과를 위해 기술지표와 감정지수가 계산되었으며, 비트코인 가격 추세를 이해하는데 참고 가능합니다.
   
-This project was implemented to predict the trends of Bitcoin prices using Reddit and LexisNexis .  
+This project was implemented to predict the trends of Bitcoin prices using Reddit and LexisNexis.  
 Technical indicators and sentiment indices were considered together, and it can be used as a reference for understanding the Bitcoin Price trend.
 
 ## Data Description
